@@ -41,4 +41,4 @@ Developed as a Flutter learning project.
 ![Difficulty Selection](Difficulty-Selection.png)
 
 ### Game Completed
-![Game Completed](Game-Completed.png)
+![Game Completed](Game-Complated.png)
