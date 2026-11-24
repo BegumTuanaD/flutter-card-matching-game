@@ -35,10 +35,10 @@ Developed as a Flutter learning project.
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](home-screen.png)
+![Home Screen](Home-Screen.png)
 
 ### Difficulty Selection
-![Difficulty Selection](difficulty-selection.png)
+![Difficulty Selection](Difficulty-Selection.png)
 
 ### Game Completed
-![Game Completed](game-completed.png)
+![Game Completed](Game-Completed.png)
