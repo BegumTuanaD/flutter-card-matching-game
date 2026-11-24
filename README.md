@@ -31,3 +31,14 @@ Card Matching Game is a mobile game designed to improve memory and concentration
 ## 👩‍💻 Developer
 
 Developed as a Flutter learning project.
+
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](home-screen.png)
+
+### Difficulty Selection
+![Difficulty Selection](difficulty-selection.png)
+
+### Game Completed
+![Game Completed](game-completed.png)
